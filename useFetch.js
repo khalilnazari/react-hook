@@ -24,3 +24,5 @@ const useFetchData = (url) => {
 };
 
 export default useFetchData;
+
+// this hook is used in FetchData.jsx
